@@ -1,0 +1,16 @@
+PyPDF2
+azure-ai-inference
+azure-core
+azure-identity
+datetime
+python-docx
+dotenv
+msal
+pathlib
+python-pptx
+purviewautomation
+pyapacheatlas
+requests
+tiktoken
+typing
+uuid
