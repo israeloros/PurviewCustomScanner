@@ -91,7 +91,7 @@ To register your application and add the app's registration information to your 
 - Select Microsoft Graph.
 - Select Application permissions.
 - Under the User node, select User.Read.All as well as Site.Read.All, then select Add permissions.
-- If you notice that "Grant Admin Consent" is required, enable this now. Make sure all permissions have been granted admin consent. If you require an Admin, please see this [document](https://learn.microsoft.com/en-us/entra/identity-platform/index-service?pivots=devlang-python) for additional help.
+- If you notice that "Grant Admin Consent" is required, enable this now. Make sure all permissions have been granted admin consent.
 - Click "Overview" and copy the "Application (client) ID" as well as the "Directory (tenant) ID"
 
 ## Grant Purview Roles to Application
